@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestLearnApplication<restLearn>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.restLearn.restLearn.RestLearnApplication",
+            "projectName": "restLearn",
+            "args": ""
+        }
+    ]
+}
